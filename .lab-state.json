@@ -8,5 +8,8 @@
   "pluginsScaffolded": true,
   "logicSolutionScaffolded": true,
   "repo": "heizler625/lab",
-  "securityScaffolded": true
+  "securityScaffolded": true,
+  "slnxName": "WarehouseManagement",
+  "publisherName": "TALXISLab",
+  "publisherPrefix": "lab"
 }
