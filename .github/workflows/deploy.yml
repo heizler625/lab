@@ -27,7 +27,7 @@ jobs:
         env:
           AZURE_CLIENT_ID: 93db6b59-7b92-4b31-b326-09fcef76d0b3
           AZURE_TENANT_ID: 957a313a-971b-4add-b513-038b581bc3e7
-          DATAVERSE_TEST_URL: https://wm-dev-9615.crm.dynamics.com
+          DATAVERSE_TEST_URL: https://wm-test-9615.crm.dynamics.com
         run: |
           txc config auth add-federated --alias ci --tenant $AZURE_TENANT_ID --application-id $AZURE_CLIENT_ID
           txc config connection create test --provider Dataverse --url $DATAVERSE_TEST_URL
