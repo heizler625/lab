@@ -22,7 +22,9 @@
   "formScriptsScaffolded": true,
   "ribbonScaffolded": true,
   "gridControlScaffolded": true,
-  "testEnvUrl": "https://wm-dev-9615.crm.dynamics.com",
-  "testProfile": "dev",
-  "appId": "93db6b59-7b92-4b31-b326-09fcef76d0b3"
+  "testEnvUrl": "https://wm-test-9615.crm.dynamics.com",
+  "testProfile": "test",
+  "appId": "93db6b59-7b92-4b31-b326-09fcef76d0b3",
+  "testEnvId": "ccd41f77-0f2e-e229-975e-c7440daf7119",
+  "testOrgId": "986fb9e0-9dd0-f111-be87-6045bd06d935"
 }
