@@ -1,10 +1,7 @@
 {
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
-  "randomIdentifier": 6353,
-  "slnxName": "WarehouseManagement",
-  "publisherName": "TALXISLab",
-  "publisherPrefix": "lab",
-  "repo": "heizler625/lab",
-  "mainRulesetId": 25828824,
-  "mainRulesetName": "lab-main-protection"
+  "randomIdentifier": 9615,
+  "packageDeployerScaffolded": true,
+  "dataModelScaffolded": true,
+  "columnsScaffolded": true
 }
