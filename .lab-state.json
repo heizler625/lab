@@ -31,5 +31,6 @@
   "dataModelScaffolded": true,
   "columnsScaffolded": true,
   "productTableScaffolded": true,
-  "productTableDeployed": true
+  "productTableDeployed": true,
+  "connectorScaffolded": true
 }
