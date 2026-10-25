@@ -6,5 +6,7 @@
   "devOrgId": "697c3787-98d0-f111-be87-000d3a5cb43d",
   "devProfile": "dev",
   "pluginsScaffolded": true,
-  "logicSolutionScaffolded": true
+  "logicSolutionScaffolded": true,
+  "repo": "heizler625/lab",
+  "securityScaffolded": true
 }
