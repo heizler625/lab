@@ -1,7 +1,10 @@
 {
   "tenantId": "957a313a-971b-4add-b513-038b581bc3e7",
   "randomIdentifier": 9615,
-  "packageDeployerScaffolded": true,
-  "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "devEnvUrl": "https://wm-dev-9615.crm.dynamics.com",
+  "devEnvId": "1af095f6-8813-e4de-ad44-301e81245518",
+  "devOrgId": "697c3787-98d0-f111-be87-000d3a5cb43d",
+  "devProfile": "dev",
+  "pluginsScaffolded": true,
+  "logicSolutionScaffolded": true
 }
