@@ -32,5 +32,6 @@
   "columnsScaffolded": true,
   "productTableScaffolded": true,
   "productTableDeployed": true,
-  "connectorScaffolded": true
+  "connectorScaffolded": true,
+  "connectorDeployed": true
 }
