@@ -11,5 +11,7 @@
   "securityScaffolded": true,
   "slnxName": "WarehouseManagement",
   "publisherName": "TALXISLab",
-  "publisherPrefix": "lab"
+  "publisherPrefix": "lab",
+  "mainRulesetId": 25828824,
+  "mainRulesetName": "lab-main-protection"
 }
