@@ -29,5 +29,7 @@
   "testOrgId": "986fb9e0-9dd0-f111-be87-6045bd06d935",
   "packageDeployerScaffolded": true,
   "dataModelScaffolded": true,
-  "columnsScaffolded": true
+  "columnsScaffolded": true,
+  "productTableScaffolded": true,
+  "productTableDeployed": true
 }
