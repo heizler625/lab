@@ -13,5 +13,13 @@
   "publisherName": "TALXISLab",
   "publisherPrefix": "lab",
   "mainRulesetId": 25828824,
-  "mainRulesetName": "lab-main-protection"
+  "mainRulesetName": "lab-main-protection",
+  "uiSolutionScaffolded": true,
+  "sitemapScaffolded": true,
+  "formsScaffolded": true,
+  "viewsSubgridsScaffolded": true,
+  "codeAppScaffolded": true,
+  "formScriptsScaffolded": true,
+  "ribbonScaffolded": true,
+  "gridControlScaffolded": true
 }
